@@ -1,0 +1,22 @@
+{
+  "topic": "AI automation tools for SEO",
+  "slug": "ai-automation-tools-for-seo",
+  "topics": [
+    "seo",
+    "guide",
+    "resources"
+  ],
+  "sections": [
+    "AI Automation Tools for SEO: Practical Workflows & Stack",
+    "Core SEO Workflows Worth Automating",
+    "Comparing Popular AI SEO Automation Stacks",
+    "Maintaining Quality and Search Compliance",
+    "Frequently Asked Questions"
+  ],
+  "referenceUrl": null,
+  "files": [
+    "README.md",
+    "CHECKLIST.md",
+    "resources.json"
+  ]
+}
